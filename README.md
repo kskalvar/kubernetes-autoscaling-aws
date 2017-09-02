@@ -1,5 +1,5 @@
-# kubernetes-autoscaling-aws
-kubernetes-autoscaling-aws
+# kubernetes-aws-autoscaling
+kubernetes-aws-autoscaling
 
 Autoscaling Kubernetes on AWS
 
